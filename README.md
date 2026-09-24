@@ -6,7 +6,11 @@ Portfolio showcasing practical skills in data analysis and Excel through project
 
 ## About
 
-I am **Zainul Alim** (@sxsvnyss), learning data analysis with a focus on Microsoft Excel and Power Query. This portfolio demonstrates my hands-on work with real datasets and Excel functions for data cleaning and analysis.
+I’m **Zainul Alim** *(@a4tc)*, but you can call me **Al**.
+
+I’m currently learning ***data analysis***, with a focus on **Microsoft Excel** and **Power Query**. This portfolio showcases my *hands-on work with real-world datasets, covering data cleaning, transformation, and analysis using Excel functions and Power Query*.
+
+The projects in this portfolio document my learning process and practical application of data analysis techniques.
 
 ---
 
@@ -72,9 +76,9 @@ I am **Zainul Alim** (@sxsvnyss), learning data analysis with a focus on Microso
 | Channel | Details |
 |---------|---------|
 | **Email** | [contacts.zainul@gmail.com](mailto:contacts.zainul@gmail.com) |
-| **GitHub** | [@sxsvnyss](https://github.com/sxsvnyss) |
+| **GitHub** | [@a4tc](https://github.com/a4tc) |
 
 ---
 
-**Created by Zainul Alim** (@sxsvnyss)  
+**Created by Zainul Alim** (@a4tc)  
 Last Updated: June 2026
